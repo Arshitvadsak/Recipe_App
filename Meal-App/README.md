@@ -12,13 +12,12 @@ You can also favourite the food. User can also filter out the type of food he wa
 5. Filter food by Gluten free, lactose free, Vegetarian or Vegan.
 
 ## Screenshots 📷
-![image](https://user-images.githubusercontent.com/74453775/211142224-478187b3-e273-4e68-9e9c-56420f8e3840.png)
-![image](https://user-images.githubusercontent.com/74453775/211142232-bbd997d5-999e-4639-8b3e-a31dca08ad7b.png)
-![image](https://user-images.githubusercontent.com/74453775/211142248-db77d86a-0649-4835-bc45-50417d3976de.png)
-![image](https://user-images.githubusercontent.com/74453775/211142274-fa813262-3d6f-471e-81c8-6f1405670e69.png)
-![image](https://user-images.githubusercontent.com/74453775/211142280-277a9219-9ebf-4a09-9d82-b79013a16cf7.png)
-![image](https://user-images.githubusercontent.com/74453775/211142304-9fe7a249-5532-41fd-a4fa-5918be892f12.png)
-![image](https://user-images.githubusercontent.com/74453775/211142312-08f296eb-7000-4b0c-91c5-70455ac6b669.png)
+![image](https://github.com/Arshitvadsak/Recipe_App/assets/121868653/1deb9443-93f5-4642-82ad-591ee47a818f.png)
+![image](https://github.com/Arshitvadsak/Recipe_App/assets/121868653/ce1ee4c5-f834-43cd-8985-3b3cb6c3d4ae.png)
+![image](https://github.com/Arshitvadsak/Recipe_App/assets/121868653/ab32e043-4d7f-49e5-a815-b33cd4ded320.png)
+![image](https://github.com/Arshitvadsak/Recipe_App/assets/121868653/fb2bf5c1-3843-4e08-913a-3ddf0839e4cf.png)
+![image](https://github.com/Arshitvadsak/Recipe_App/assets/121868653/89d55fd5-9750-44f6-af30-5e72846050f6.png)
+
 
 ### To use this app follow below instructions:
 
