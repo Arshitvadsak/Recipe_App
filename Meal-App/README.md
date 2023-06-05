@@ -1,4 +1,4 @@
-# Meal App 📱 🍝👨🏿‍🍳
+# Recipe App 📱 🍝👨🏿‍🍳
 
 This is the project I build when learning flutter. This app helps to list and see different food categories. 
 This also helps to find wonderful recipes with all the ingredients to make it tasty. 
@@ -17,20 +17,3 @@ You can also favourite the food. User can also filter out the type of food he wa
 ![image](https://github.com/Arshitvadsak/Recipe_App/assets/121868653/ab32e043-4d7f-49e5-a815-b33cd4ded320.png)
 ![image](https://github.com/Arshitvadsak/Recipe_App/assets/121868653/fb2bf5c1-3843-4e08-913a-3ddf0839e4cf.png)
 ![image](https://github.com/Arshitvadsak/Recipe_App/assets/121868653/89d55fd5-9750-44f6-af30-5e72846050f6.png)
-
-
-### To use this app follow below instructions:
-
-1. Clone this app using below syntax:
-
-   > git clone https://github.com/aliasar1/Meal-App
-
-2. After cloning install packages using below syntax:
-   > flutter pub get
-
-Above command will install all the necessary packages.
-
-3. Run the app on your mobile emulator using below command:
-   > flutter run
-   
-### **_Thank you. Happy Coding! 😃_**
